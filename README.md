@@ -17,8 +17,10 @@
 
 Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS
 
-Essa será uma aplicação onde você tem dois objetivos principais. O primeiro é desenvolver toda a interface usando como base o Chakra UI. 
-O outro é que você deve trabalhar o responsivo da aplicação (e é aqui que sua criatividade pode brilhar ainda mais).
+Essa será uma aplicação onde você tem dois objetivos principais.
+
+- [x] Desenvolver toda a interface usando como base o Chakra UI. 
+- [x] Trabalhar o responsivo da aplicação.
 
 Você vai iniciar uma aplicação Next.js do zero na sua própria máquina e implementar a interface conforme o layout do Figma.
 
